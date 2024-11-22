@@ -1,0 +1,36 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 1em;
+}
+.azul{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+
+.rojo{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+
+
+.verde{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(0, 153, 0);
+}
+
+
+
+.amarillo{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(251, 255, 2);
+}
